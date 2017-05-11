@@ -1,0 +1,418 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Client.swift",
+      "line": 3,
+      "symbol": "Client",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Client.swift",
+      "line": 5,
+      "symbol": "Client.accessToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Client.swift",
+      "line": 8,
+      "symbol": "Client.init(baseURL:accessToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Client.swift",
+      "line": 13,
+      "symbol": "Client.run(_:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/ClientError.swift",
+      "line": 3,
+      "symbol": "ClientError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/ClientError.swift",
+      "line": 4,
+      "symbol": "ClientError.malformedURL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/ClientError.swift",
+      "line": 5,
+      "symbol": "ClientError.mastodonError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/ClientError.swift",
+      "line": 6,
+      "symbol": "ClientError.dataError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AccessScope.swift",
+      "line": 3,
+      "symbol": "AccessScope",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AccessScope.swift",
+      "line": 4,
+      "symbol": "AccessScope.read",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AccessScope.swift",
+      "line": 5,
+      "symbol": "AccessScope.write",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AccessScope.swift",
+      "line": 6,
+      "symbol": "AccessScope.follow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Account.swift",
+      "line": 3,
+      "symbol": "Account",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Application.swift",
+      "line": 3,
+      "symbol": "Application",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Attachment.swift",
+      "line": 3,
+      "symbol": "Attachment",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AttachmentType.swift",
+      "line": 3,
+      "symbol": "AttachmentType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AttachmentType.swift",
+      "line": 4,
+      "symbol": "AttachmentType.gifv",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AttachmentType.swift",
+      "line": 4,
+      "symbol": "AttachmentType.image",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AttachmentType.swift",
+      "line": 4,
+      "symbol": "AttachmentType.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/AttachmentType.swift",
+      "line": 4,
+      "symbol": "AttachmentType.video",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Card.swift",
+      "line": 3,
+      "symbol": "Card",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/ClientApplication.swift",
+      "line": 3,
+      "symbol": "ClientApplication",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Context.swift",
+      "line": 3,
+      "symbol": "Context",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Instance.swift",
+      "line": 3,
+      "symbol": "Instance",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/LoginSettings.swift",
+      "line": 3,
+      "symbol": "LoginSettings",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Mention.swift",
+      "line": 3,
+      "symbol": "Mention",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Notification.swift",
+      "line": 3,
+      "symbol": "Notification",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/NotificationType.swift",
+      "line": 3,
+      "symbol": "NotificationType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/NotificationType.swift",
+      "line": 4,
+      "symbol": "NotificationType.favourite",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/NotificationType.swift",
+      "line": 4,
+      "symbol": "NotificationType.follow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/NotificationType.swift",
+      "line": 4,
+      "symbol": "NotificationType.mention",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/NotificationType.swift",
+      "line": 4,
+      "symbol": "NotificationType.reblog",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/NotificationType.swift",
+      "line": 4,
+      "symbol": "NotificationType.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Relationship.swift",
+      "line": 3,
+      "symbol": "Relationship",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Report.swift",
+      "line": 3,
+      "symbol": "Report",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Results.swift",
+      "line": 3,
+      "symbol": "Results",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Status.swift",
+      "line": 3,
+      "symbol": "Status",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Tag.swift",
+      "line": 3,
+      "symbol": "Tag",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Visibility.swift",
+      "line": 3,
+      "symbol": "Visibility",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Visibility.swift",
+      "line": 4,
+      "symbol": "Visibility.public",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Visibility.swift",
+      "line": 5,
+      "symbol": "Visibility.unlisted",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Visibility.swift",
+      "line": 6,
+      "symbol": "Visibility.private",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Models/Visibility.swift",
+      "line": 7,
+      "symbol": "Visibility.direct",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Parameter.swift",
+      "line": null,
+      "symbol": "Parameter",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resource.swift",
+      "line": 5,
+      "symbol": "Resource",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/ResourceRange.swift",
+      "line": 3,
+      "symbol": "ResourceRange",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Accounts.swift",
+      "line": 3,
+      "symbol": "Accounts",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Blocks.swift",
+      "line": 3,
+      "symbol": "Blocks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Clients.swift",
+      "line": 3,
+      "symbol": "Clients",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Favourites.swift",
+      "line": 3,
+      "symbol": "Favourites",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/FollowRequests.swift",
+      "line": 3,
+      "symbol": "FollowRequests",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Instances.swift",
+      "line": 3,
+      "symbol": "Instances",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Login.swift",
+      "line": 3,
+      "symbol": "Login",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Mutes.swift",
+      "line": 3,
+      "symbol": "Mutes",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Notifications.swift",
+      "line": 3,
+      "symbol": "Notifications",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Reports.swift",
+      "line": 3,
+      "symbol": "Reports",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Search.swift",
+      "line": 3,
+      "symbol": "Search",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Statuses.swift",
+      "line": 3,
+      "symbol": "Statuses",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/vhbit/projects/MastodonKit/Sources/MastodonKit/Resources/Timelines.swift",
+      "line": 3,
+      "symbol": "Timelines",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/vhbit/projects/MastodonKit"
+}
